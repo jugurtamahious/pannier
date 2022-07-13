@@ -60,7 +60,7 @@ export default class Header extends React.Component {
                     this.props.pageChanges("Card");
                   }}
                 >
-                  Log in
+                  accueil
                 </a>
               </div>
             </div>
